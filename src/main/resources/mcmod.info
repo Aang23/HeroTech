@@ -1,0 +1,16 @@
+[
+{
+  "modid": "herotech",
+  "name": "Hero Tech",
+  "description": "A mod adding heros from Marvel and DC",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Barais"], ["&6UKMinecrafted"]
+  "credits": "Co-created by Amalgam",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

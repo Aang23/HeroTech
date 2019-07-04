@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+   
+    "key":
+    {
+        "M":
+        {
+            "item": "herotech:man_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "herotech:man_block",
+        "count": 1
+    }
+}
