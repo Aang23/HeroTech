@@ -1,4 +1,4 @@
-package io.github.amalgammc.herotech.blocks;
+package io.github.amalgammc.herotech.common.blocks;
 
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;

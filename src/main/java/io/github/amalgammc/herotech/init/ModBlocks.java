@@ -1,13 +1,13 @@
 package io.github.amalgammc.herotech.init;
 
-import java.util.ArrayList;
-import java.util.List;
 
-import io.github.amalgammc.herotech.blocks.ManBlock;
-import io.github.amalgammc.herotech.blocks.ManOre;
-
+import io.github.amalgammc.herotech.common.blocks.ManBlock;
+import io.github.amalgammc.herotech.common.blocks.ManOre;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ModBlocks 
 {

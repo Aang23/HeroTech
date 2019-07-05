@@ -3,7 +3,6 @@ package io.github.amalgammc.herotech.util.handlers;
 import io.github.amalgammc.herotech.init.ModBlocks;
 import io.github.amalgammc.herotech.init.ModItems;
 import io.github.amalgammc.herotech.util.IHasModel;
-
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
