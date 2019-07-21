@@ -1,0 +1,25 @@
+item.man_ingot.name=Gold Titanium Alloy
+
+tile.man_block.name=Gold Titanium Block
+
+tile.man_ore.name=Gold Titanium Ore
+
+tile.pal_ore.name=Palladium Ore
+
+item.pal_ingot.name=Palladium Ingot
+
+tile.tit_ore.name=Titanium Ore
+
+item.tit_ingot.name=Titanium Ingot
+
+tile.vib_ore.name=Vibranium Ore
+
+item.vib_ingot.name=Vibranium Ingot
+
+item.arc_reactor.name=Palladium Arc Reactor
+
+itemGroup.HeroTech=Hero Tech
+
+item.vib_pick.name=Vibranium Pickaxe
+
+item.vib_sword.name=Vibranium Sword

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " P ",
+        "PPP",
+        " P "
+    ],
+   
+    "key":
+    {
+        "P":
+        {
+            "item": "herotech:pal_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "herotech:arc_reactor",
+        "count": 1
+    }
+}

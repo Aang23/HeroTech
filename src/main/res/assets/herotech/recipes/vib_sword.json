@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " V ",
+        " V ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "V":
+        {
+            "item": "herotech:vib_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "herotech:vib_sword",
+        "count": 1
+    }
+}
